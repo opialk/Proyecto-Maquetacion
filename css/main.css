@@ -1,0 +1,14 @@
+body{
+  font-family: sans-serif;
+}
+div{
+  border: 1px red solid;
+  margin: 25px 25px 25px 25px;
+  padding: 5px 20px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+span{
+  border: 1px blue solid;
+}
