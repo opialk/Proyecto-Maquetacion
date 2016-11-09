@@ -60,3 +60,16 @@ background-size: cover;
 background-position: 0px -100px;
 
 }
+
+h3{
+color: #999;
+font-weight: 100;
+font-size: 25px;
+}
+
+.project_container{
+  border: 1px solid black;
+  display: inline-block;
+  width: 30%;
+  height: 200px;
+}
